@@ -1,0 +1,6 @@
+This module can send collectd notification to:
+
+ - NSCA (for Nagios, Icinga, Shinken, etc.)
+ - a JSON file
+
+
